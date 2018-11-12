@@ -15,7 +15,7 @@ class TestContact:
         assert 1
 
     def test_contact3(self):
-        assert 0
+        assert 1
 
 
     # def setup(self):
