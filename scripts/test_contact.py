@@ -11,7 +11,6 @@ class TestContact:
     def setup(self):
         self.driver = init_driver()
         self.page = Page(self.driver)
-        print("setup")
 
     def teardown(self):
         time.sleep(5)
